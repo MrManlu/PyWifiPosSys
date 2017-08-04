@@ -1,6 +1,6 @@
 import sys
 print(sys.platform)
- 
+#print aquihaymanteca 
 #/System/Library/PrivateFrameworks/Apple80211.framework/Resources/airport
 import subprocess
 def getWifiMacAddresses():
